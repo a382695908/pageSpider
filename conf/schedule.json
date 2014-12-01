@@ -5,7 +5,7 @@
 			"minute": 40, 
 			"dayOfWeek": 0
 		},
-		"dest": "/home/kugua/fexnotes/repos/blog/source/_posts/"
+		"dest": "./db/new/"
 	}
 
 }
